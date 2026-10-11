@@ -99,3 +99,24 @@ header {
 .img-button-links {
   margin-left: 5px;
 }
+
+@media screen and (max-width: 910px) {
+  .divlogo a {
+    font-size: 1.4rem;
+  }
+  .menu-list {
+    display: none;
+  }
+  .menu-list {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 534px) {
+  header {
+    padding: 0;
+  }
+  .divlogo a {
+    font-size: 1.5rem;
+  }
+}
